@@ -1,0 +1,28 @@
+.smallContainer{
+    width: 325px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 0px 20px 0px 20px;
+    /* border: 1px solid black; */
+    margin: 55px 0px 55px 0px;
+}
+
+.imgProps{
+    object-fit: contain;
+    width: 100px;
+    padding-bottom: 10px;
+}
+
+.bigimg{
+    height: 175px !important;
+}
+
+#azure{
+    background-color: azure;
+}
+#bisque{
+    background-color: bisque;
+}
+#darksalmon{
+    background-color: rgb(255, 227, 218);
+}

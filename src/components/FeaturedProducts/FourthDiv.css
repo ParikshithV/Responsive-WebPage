@@ -1,0 +1,28 @@
+.imgProp{
+    object-fit: contain;
+    max-height: 125px;
+    padding-bottom: 10px;
+}
+
+.verticalContainer{
+    height: 245px;
+    width: 175px;
+    background-color: rgb(248, 252, 255);
+    padding: 0px;
+    padding-top: 20px;
+    margin: 25px 15px 0px 0px ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.102);
+}
+
+#drkbkgnd{
+    margin-top: 15%;
+    background-color: rgb(240, 240, 240);
+}
+
+.rndBtns{
+    border: 0;
+    border-radius: 100px;
+    height: 35px;
+    width: 35px;
+    background-color: greenyellow;
+}
