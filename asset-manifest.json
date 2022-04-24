@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f397cd2.css",
+    "main.js": "/static/js/main.a31bf4f6.js",
+    "static/media/image.png": "/static/media/image.0380a29c56cbacb1c009.png",
+    "static/media/bgnd.png": "/static/media/bgnd.8ee1c6feab5faa5ce873.png",
+    "static/media/phone.png": "/static/media/phone.53138ef66cb7600a8ec4.png",
+    "static/media/blueairpods.png": "/static/media/blueairpods.3bde2cad63499ffe58c4.png",
+    "static/media/backCover.png": "/static/media/backCover.c9952f8bf0b52a96113b.png",
+    "static/media/cablepack.png": "/static/media/cablepack.b1281c6a2fd2f3172d11.png",
+    "static/media/backcover.png": "/static/media/backcover.d7986e0fdf5835840e69.png",
+    "static/media/charger.png": "/static/media/charger.668bd79e87cea8c1e96d.png",
+    "static/media/airpods.png": "/static/media/airpods.6a0ab31fb4b3e3bf83a8.png",
+    "static/media/logo.png": "/static/media/logo.6b6b5d15dccda11da151.png",
+    "static/media/Frame 8.png": "/static/media/Frame 8.4a44326152add34871b2.png",
+    "static/media/Frame 7.png": "/static/media/Frame 7.d76b01d32260d5564d68.png",
+    "index.html": "/index.html",
+    "main.0f397cd2.css.map": "/static/css/main.0f397cd2.css.map",
+    "main.a31bf4f6.js.map": "/static/js/main.a31bf4f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f397cd2.css",
+    "static/js/main.a31bf4f6.js"
+  ]
+}
