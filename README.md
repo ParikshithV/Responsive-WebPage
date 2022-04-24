@@ -1,1 +1,1 @@
-A Responsive Web-Page
+Responsive webapp with React and Bootstrap
